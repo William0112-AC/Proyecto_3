@@ -1,0 +1,33 @@
+body{
+background-image: url(embutidos/pais.jpeg);
+margin:0%;
+}
+h1{
+  color: rgb(231, 15, 7);
+  text-align: center;
+  font-size: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(10, 219, 3);
+    text-align: center;
+    font-size: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+table{
+    border: rgb(78, 207, 3);
+    margin: auto;
+}
+.imagen{
+    width: 300px;
+    border-radius: 40px;
+    border: 1px solid rgb(4, 26, 223);
+}
+.imagen:hover{
+    /* transform:rotate(30deg); */
+    transform: scale(1.2);
+}
